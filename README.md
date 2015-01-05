@@ -1,0 +1,4 @@
+JHT
+===
+
+Joomla Hardening Tool
