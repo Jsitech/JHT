@@ -22,5 +22,12 @@ Joomla! User Configuration
 - Chmod
 - Temporal Files
 - 404 Page
-- httacces
+- htaccess
+- Prevent File Listing
+- Change Database Prefix
+
+Joomla! General Security
+===========================
+
+- Automatically install Security Related Extensions
 
